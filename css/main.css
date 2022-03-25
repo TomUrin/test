@@ -1,0 +1,33 @@
+.container {
+    display: inline-block;
+    width: 1300px;
+    margin-top: 200px;
+    margin-left: calc(50% - 400px);
+}
+
+div.first {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 50px;
+}
+
+div.second {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 50px;
+}
+
+div.third {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 50px;
+}
+
+div.fourth {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
