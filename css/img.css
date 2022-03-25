@@ -1,0 +1,19 @@
+img.first {
+    background-color: aqua;
+    padding: 50px;
+} 
+
+img.second {
+    background-color: blue;
+    padding: 50px;
+}
+
+img.third {
+    background-color: tomato;
+    padding: 50px;
+}
+
+img.fourth {
+    background-color: grey;
+    padding: 50px;
+}

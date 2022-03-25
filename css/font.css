@@ -1,0 +1,11 @@
+.heading {
+    color: tomato;
+    font-size: 25px;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+.paragraph {
+    margin-top: 10px;
+    font-size: 15px;
+}
