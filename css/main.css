@@ -1,6 +1,6 @@
 .container {
     display: inline-block;
-    width: 1450px;
+    width: 950px;
     margin-top: 200px;
     margin-left: calc(50% - 500px);
     text-align: center;
@@ -10,21 +10,25 @@ div.first {
     width: 200px;
     float: left;
     margin-right: 50px;
+    position: sticky;
 }
 
 div.second {
     width: 200px;
     float: left;
     margin-right: 50px;
+    position: sticky;
 }
 
 div.third {
     width: 200px;
     float: left;
     margin-right: 50px;
+    position: sticky;
 }
 
 div.fourth {
     width: 200px;
     float: left;
+    position: sticky;
 }

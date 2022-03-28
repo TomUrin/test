@@ -1,19 +1,80 @@
 img.first {
+    width: 200px;
+    height: 200px;
     background-color: aqua;
     padding: 50px;
 } 
 
 img.second {
+    width: 200px;
+    height: 200px;
     background-color: blue;
     padding: 50px;
 }
 
 img.third {
+    width: 200px;
+    height: 200px;
     background-color: tomato;
     padding: 50px;
 }
 
 img.fourth {
+    width: 200px;
+    height: 200px;
     background-color: grey;
     padding: 50px;
+}
+
+.num1 {
+    color: aqua;
+    width: 35px;
+    height: 35px;
+    border-radius: 17px;
+    background-color: white;
+    border: 3px solid aqua;
+    position: absolute;
+    top: -12px;
+    left: -12px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.num2 {
+    color: blue;
+    width: 35px;
+    height: 35px;
+    border-radius: 17px;
+    background-color: white;
+    border: 3px solid blue;
+    position: absolute;
+    top: -12px;
+    left: -12px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.num3 {
+    color: tomato;
+    width: 35px;
+    height: 35px;
+    border-radius: 17px;
+    background-color: white;
+    border: 3px solid tomato;
+    position: absolute;
+    top: -12px;
+    left: -12px;
+    font-size: 25px;
+    font-weight: 700;
+}
+.num4 {
+    color: grey;
+    width: 35px;
+    height: 35px;
+    border-radius: 17px;
+    background-color: white;
+    border: 3px solid grey;
+    position: absolute;
+    top: -12px;
+    left: -12px;
+    font-size: 25px;
+    font-weight: 700;
 }
